@@ -6,7 +6,7 @@
 name: John Mooney
 
 # Short bio or description (displayed in the header)
-description: Maker, Designer, Physicist. Working on a PhD in Magnetocardiography; focusing on environmental noise rejection and machine learning diagnostics. 
+description: Maker, Designer, Physicist. Working on a PhD in Magnetocardiography; focusing on environmental noise rejection and machine learning diagnostics.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/424433?v=3&s=466
@@ -17,7 +17,7 @@ avatar: https://avatars3.githubusercontent.com/u/424433?v=3&s=466
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  #email:
+  email: py08jwm@leeds.ac.uk
   facebook: https://www.facebook.com/mooneyjohn
   flickr: https://www.flickr.com/photos/mooney-j/
   github: barryclark/jekyll-now

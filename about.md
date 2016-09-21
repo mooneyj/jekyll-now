@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Postgrad student at the
+<a href="https://www.physics.leeds.ac.uk/people.html ">University of Leeds</a>.
+Researching Magnetocardiography in Ben Varcoe's Quantum Information Experimentation Group.
 
-### More Information
+### Publications
+<a href="https://arxiv.org/abs/1609.05771">[1609.05771] A Portable Diagnostic Device for Cardiac Magnetic Field Mapping</a>.
 
-A place to include any other types of information that you'd like to include about yourself.
+### CV
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[py08jwm@leeds.ac.uk](mailto:py08jwm@leeds.ac.uk)
