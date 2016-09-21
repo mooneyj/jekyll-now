@@ -18,11 +18,11 @@ avatar: https://avatars3.githubusercontent.com/u/424433?v=3&s=466
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: py08jwm@leeds.ac.uk
-  facebook: https://www.facebook.com/mooneyjohn
-  flickr: https://www.flickr.com/photos/mooney-j/
-  github: barryclark/jekyll-now
+  facebook: mooneyjohn
+  flickr: mooney-j
+  github: mooneyj
   #instagram:
-  linkedin: www.linkedin.com/in/john-mooney-physicist
+  linkedin: john-mooney-physicist
   #pinterest:
   #rss: # just type anything here for a working RSS icon
   twitter: mooneyjohn
