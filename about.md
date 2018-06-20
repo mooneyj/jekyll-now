@@ -6,13 +6,13 @@ permalink: /about/
 
 Postgrad student at the
 <a href="https://www.physics.leeds.ac.uk/people.html ">University of Leeds</a>.
-Researching Magnetocardiography in Ben Varcoe's Quantum Information Experimentation Group.
+Developing a device for clinical Magnetocardiography in Prof. Ben Varcoe's Quantum Information Experimentation Lab.
 
 ### Publications
-<a href="https://arxiv.org/abs/1609.05771">[1609.05771] A Portable Diagnostic Device for Cardiac Magnetic Field Mapping</a>.
+<a href="http://iopscience.iop.org/article/10.1088/2057-1976/3/1/015008">[J W Mooney et al 2017 Biomed. Phys. Eng. Express 3 015008] A Portable Diagnostic Device for Cardiac Magnetic Field Mapping</a>.
 
 ### CV
 
 ### Contact me
 
-[py08jwm@leeds.ac.uk](mailto:py08jwm@leeds.ac.uk)
+[j.w.mooney@leeds.ac.uk](mailto:j.w.mooney@leeds.ac.uk)
