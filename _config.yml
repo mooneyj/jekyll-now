@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: John Mooney
+name: Dr John W. Mooney
 
 # Short bio or description (displayed in the header)
-description: Maker, Designer, Physicist. Working on a PhD in Magnetocardiography; focusing on environmental noise rejection and machine learning diagnostics.
+description: Physicist/Engineer/Designer/Architect. PhD in Magnetocardiography. Building a solar velomobile to cross Eurasia.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/424433?v=3&s=466
@@ -17,7 +17,7 @@ avatar: https://avatars3.githubusercontent.com/u/424433?v=3&s=466
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: j.w.mooney@leeds.ac.uk
+  email: jmooney538@gmail.com
   #facebook: mooneyjohn
   flickr: mooney-j
   github: mooneyj
