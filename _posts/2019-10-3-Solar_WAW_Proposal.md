@@ -3,8 +3,6 @@ layout: post
 title: Silk Road Runner
 ---
 
-# Silk Road Runner
-
 I will be riding in The Lyon-Canton Sun Trip 2020 and I'm building a solar velomobile for the journey. The smooth asphalt of the new silk road should allow a velomobile to travel at a high speed safely and consistently.
 To this end, I'm developing a tilting solar p.v. array that is lightweight and low drag. 
 
