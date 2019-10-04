@@ -23,6 +23,7 @@ For mounting struts use [EPPLER 863 STRUT AIRFOIL](http://airfoiltools.com/airfo
 ### Solar Panels
 Raf Van Hulle used 1mm aluminium backed solar panels made by Soltech, with Sunpower Maxeon gen3 cells. The aluminium backing is quite heavy compared to a foam or honeycomb design, however it provides superior cooling and uniform temperature distribution.
 Is the extra weight worth the improved thermal performance? 
+A 6x24 array of 144 cells will weight 936g plus the weight of interconnects, ETFE film, top layer, backing panel and connectors.
 
 
 Dual front hub motors (Grin All Axle) if possible? Requires disk brake calipers.
