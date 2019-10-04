@@ -12,7 +12,7 @@ The solar array pivots around a single carbon fiber tube, supported by struts wi
 
 The 144 cell, (0.81x3.1m ~= 2.5m^2) solar array will be mounted 1.4m above the ground, giving the pilot an unobstructed view and increasing the visibility of the velo to other road users since its height will be comparable to a typical car roof.  
 The array can tilt to a maximum of 80 degrees from horizontal, giving it a minimum projection error of cos(10) = 0.98, capturing up to 98% of the available solar flux when riding tangentially to the sun. The array will weigh approximately 6kg, which should be light enough to maintain a stable, low centre of mass. 
-The height could be reduced if it seems unstable, though the single pivot design places a restriction, compared to this [dual pivot solar velomobile](https://solarvelomobile.wordpress.com/) that achieves a shorter mounting height.
+The height could be reduced by about 20cm if it seems unstable, though the single pivot design places a restriction, compared to this [dual pivot solar velomobile](https://solarvelomobile.wordpress.com/) that achieves a shorter mounting height.
 
 ![SolarWAW](/figures/Silkroadrunner-sketch_front.png "Silkroadrunner front projection")
 
