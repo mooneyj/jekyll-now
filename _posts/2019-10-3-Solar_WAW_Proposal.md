@@ -18,7 +18,7 @@ The height could be reduced if it seems unstable, though the single pivot design
 
 The tilting mechanism must have a high enough holding torque to resist wind loading, but be able to slip in a crash condition. [Mark Havran](https://endless-sphere.com/forums/viewtopic.php?f=6&t=94721&sid=c873bc96a33fb6dda71d2c29d48ecb6b&start=25) is using an internal drive motor to minimise drag, with an adjustable clutch to allow slipping in a crash, and a spring to assist holding torque.
 
-
+For mounting struts use [EPPLER 863 STRUT AIRFOIL](http://airfoiltools.com/airfoil/details?airfoil=e863-il), as they have low drag even at high angle of attack. 3D print airfoil sections, with internal carbon spar and woven carbon wrap.
 
 
 Dual front hub motors (Grin All Axle) if possible? Requires disk brake calipers.
