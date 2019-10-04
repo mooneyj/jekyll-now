@@ -17,6 +17,7 @@ The height could be reduced by about 20cm if it seems unstable, though the singl
 ![SolarWAW](/figures/Silkroadrunner-sketch_front.png "Silkroadrunner front projection")
 
 The tilting mechanism must have a high enough holding torque to resist wind loading, but be able to slip in a crash condition. [Mark Havran](https://endless-sphere.com/forums/viewtopic.php?f=6&t=94721&sid=c873bc96a33fb6dda71d2c29d48ecb6b&start=25) is using an internal drive motor to minimise drag, with an adjustable clutch to allow slipping, and a spring to assist holding torque.
+[Adjustable clutch (48mm OD)](https://uk.rs-online.com/web/p/products/5113842?cm_mmc=UK-PLA-DS3A-_-google-_-PLA_UK_EN_Pneumatics_And_Hydraulics_And_Power_Transmission-_-Power_Transmission_Clutches_And_Brakes%7CClutches_Adjustable_Friction-_-PRODUCT_GROUP&matchtype=&aud-359023887599:pla-393263323883&s_kwcid=AL!7457!3!243845744332!!!g!393263323883!&gclid=CjwKCAjw29vsBRAuEiwA9s-0Bx9nmETWNVvwxcU4uEgB3IJq5FwRqUJHuCg-BquFE8_f-Ggku1cpQRoClzIQAvD_BwE&gclsrc=aw.ds)
 
 For mounting struts use [EPPLER 863 STRUT AIRFOIL](http://airfoiltools.com/airfoil/details?airfoil=e863-il), as they have low drag even at high angle of attack. 3D print airfoil sections, with internal carbon spar and woven carbon wrap.
 
